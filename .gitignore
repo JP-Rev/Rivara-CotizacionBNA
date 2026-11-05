@@ -4,3 +4,7 @@
 # Logs del proceso
 Logs/
 *.log
+
+# Python
+__pycache__/
+*.pyc
