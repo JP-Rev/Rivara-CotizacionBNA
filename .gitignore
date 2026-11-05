@@ -1,0 +1,6 @@
+# Nunca versionar credenciales
+.env
+
+# Logs del proceso
+Logs/
+*.log
